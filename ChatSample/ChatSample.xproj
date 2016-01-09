@@ -8,8 +8,8 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>f700eb41-8901-4616-b68c-70177febd4f5</ProjectGuid>
     <RootNamespace>ChatSample</RootNamespace>
-    <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">D:\_Projekte\XamarinTest\App1\artifacts\obj\$(MSBuildProjectName)</BaseIntermediateOutputPath>
-    <OutputPath Condition="'$(OutputPath)'=='' ">D:\_Projekte\XamarinTest\App1\artifacts\bin\$(MSBuildProjectName)\</OutputPath>
+    <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">D:\_Projekte\ASP_SignalR\artifacts\obj\$(MSBuildProjectName)</BaseIntermediateOutputPath>
+    <OutputPath Condition="'$(OutputPath)'=='' ">D:\_Projekte\ASP_SignalR\artifacts\bin\$(MSBuildProjectName)\</OutputPath>
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
